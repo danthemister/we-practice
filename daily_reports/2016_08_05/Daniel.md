@@ -4,7 +4,7 @@ It seems this is the first letter I would send to you.
 
 I'm so glad to see that you started to upload your daily updates, by your own motivation rather than my instructions. It somehow inspired me, indeed.
 
-First thing first, I would suggest you to get started with `Markdown` in writing daily updates (it's a powerful document type for devs, see the suffix `.md` of my report). There are lots of convenience usages of Markdown which helps you to better structure/format your documents. 
+First thing first, I would suggest you to get started with `Markdown` in writing daily updates (it's a powerful document type for devs, see the suffix `.md` of my report). There are lots of convenient usages of Markdown which help you to better structure/format your documents. 
 
 Check this out: [Markdown wiki page](https://en.wikipedia.org/wiki/Markdown). There're also quite a lot of powerful Markdown editors, I'll leave it to you to figure out your favourite one on the internet (but to be honest, normally a system default TextEditor/Notepad is enough).	
 
@@ -36,4 +36,4 @@ _feel free to use `Chinese` if it better express yourself_
 
 - [x] restructured the directory tree as you can see after pull latest code base
 - [x] write this first hello letter, of course
-- [x] went to bed earlier last night as you reminder me yesterday
+- [x] went to bed earlier last night as you remindered me yesterday
