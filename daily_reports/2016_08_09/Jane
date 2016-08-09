@@ -1,0 +1,27 @@
+first ：this is what i do today .
+1.ajax中返回数据双引号问题
+	结局办法，string sb=table.ToString();sb.Replace("\"","\\\"");
+	即把"，替换成\";
+2.调整采购信息中table样式。
+	怎么去除table中td的空格
+	.table{border-collapse:collapse;border-spacing:0px;}
+3.小图标点击显示隐藏的问题。
+判断是编辑还是保存
+btnAssess
+编辑:buy_f,buy_s,
+保存，buy_caigou_f,buy_caigou_s
+mk/str  		编辑   		 保存 
+0			buy_f	   	 	 buy_caigou_f
+1			buy_s  		buy_caigou_s
+5.从商品详情到采购信息切换，联系方式没有隐藏的问题。
+6.联系方式的字体没对齐，还有链接的问题。
+7.掌柜推荐样式调整。滑动时，做一个蓝色边框效果。TdShadow
+8.掌柜推荐更改字体
+9.解决掌柜推荐链接跳转问题。
+可以跳转链接：http://localhost:62132/Business/Item.aspx?Shop=12&Item=137
+不可以跳链接：http://localhost:62132/Business/Item.aspx?Shop=12&Item=203
+
+second:this is what i will do tonight
+1.308 生成栏目页
+2.401信息采集
+3.402信息采集之列表
