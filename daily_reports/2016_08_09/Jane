@@ -1,3 +1,7 @@
+//
+hello Dan , i have just read your article .i will learn how to use markdown and also log my daily works in the format
+like you have done .and at the last .thank you .
+//
 first ：this is what i do today .
 1.ajax中返回数据双引号问题
 	结局办法，string sb=table.ToString();sb.Replace("\"","\\\"");
