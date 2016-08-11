@@ -13,5 +13,5 @@ Dear Dan:
 ###summary
   i will update tonight
   
-###amll chat 
+###small chat 
   thank you dan .
