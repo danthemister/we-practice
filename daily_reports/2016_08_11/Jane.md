@@ -4,13 +4,13 @@ Dear Dan:
   
   ---
   
-  ### today's plan
-  - []     -9.30 learn my lessons.
-  - []    worktime,do my work and keep a record
-  - []    learn to TvPlay lessons of c#.
+###today's plan
+  - [ ]     -9.30 learn my lessons.
+  - [ ]    worktime,do my work and keep a record
+  - [ ]    learn to TvPlay lessons of c#.
   
-  ###summary
+###summary
   i will update tonight
   
-  ###amll chat 
+###amll chat 
   thank you dan .
