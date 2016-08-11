@@ -7,7 +7,7 @@ Dear Dan:
 ###today's plan
   - [ ]     -9.30 learn my lessons.
   - [ ]    worktime,do my work and keep a record
-  - [ ]    learn to TvPlay lessons of c#.
+  - [ ]    learn  TvPlay lessons of c#.
   
 ###summary
   i will update tonight
